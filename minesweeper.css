@@ -1,0 +1,40 @@
+#minutes {
+    font-style: oblique;
+    color:blue;
+    position: fixed;
+    left: 1110px;
+    bottom: 640px;
+    font-size: 25px;
+}
+
+#seconds {
+    font-style: oblique;
+    color: red;
+    position: fixed;
+    left: 1145px;
+    bottom: 640px;
+    font-size: 25px;
+}
+
+#alarmClock {
+    position: fixed;
+    left: 1075px;
+    bottom: 640px;
+    font-size: 25px;
+}
+
+#flag {
+    position: fixed;
+    left: 1080px;
+    top: 85px;
+    font-size: 25px;
+}
+
+#winner {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    font-size: 50px;
+}
+
+#lose {
+    font-size: 20px;
+}
